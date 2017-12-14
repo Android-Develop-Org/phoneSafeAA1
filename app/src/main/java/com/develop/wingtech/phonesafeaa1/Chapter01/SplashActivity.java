@@ -19,7 +19,7 @@ public class SplashActivity extends Activity {
         * 2.否则，进入Home界面
         * */
         if(isHasNewVersion()) {
-            //更新版本
+            //更新版本没有实现
         } else{
             //进入主界面
             Intent intent = new Intent();
