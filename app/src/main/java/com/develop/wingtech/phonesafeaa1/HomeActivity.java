@@ -48,7 +48,7 @@ public class HomeActivity extends AppCompatActivity implements AdapterView.OnIte
             case 0:  // 手机防盗
                 if(isSetUpPassword()){
                     //如果已经设置密码，弹出输入密码对话框
-                    //输入密码
+                    //输入密码111
 
                 } else {
                     //如果没有设置密码，弹出设置密码对话框
