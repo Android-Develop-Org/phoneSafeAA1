@@ -69,7 +69,7 @@ public class HomeActivity extends AppCompatActivity implements AdapterView.OnIte
                 break;
             case 7:  // 高级工具
                 break;
-            case 8:  // 设置中心
+            case 8:  // 设置中心11
                 break;
 
         }
